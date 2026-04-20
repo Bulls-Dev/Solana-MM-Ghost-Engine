@@ -115,8 +115,10 @@ If this engine helps you dominate the Solana market, please consider giving it a
 
 Looking for custom token development, dApp builds, or professional Web3 consulting?
 
-* 🛒 Official Store: Visit Shop-Block-S-Dev
-* 📢 Telegram Channel: Join @dev_web3_blocks
+| Platform | Link |
+| :--- | :--- |
+| 🛒 **Official Store** | [Visit Shop-Block-S-Dev](https://shop-block-s-dev.vercel.app/) |
+| 📢 **Telegram Channel** | [Join @dev_web3_blocks](https://t.me/dev_web3_blocks) |
 
 ⚠️ Disclaimer
 
